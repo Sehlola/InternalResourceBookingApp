@@ -1,0 +1,1 @@
+CREATE TABLE Bookings (Id INTEGER PRIMARY KEY, ResourceName TEXT, BookedBy TEXT, Date TEXT);
